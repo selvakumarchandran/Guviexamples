@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GuviExamples.iml" filepath="$PROJECT_DIR$/.idea/modules/GuviExamples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GuviExamples_main.iml" filepath="$PROJECT_DIR$/.idea/modules/GuviExamples_main.iml" group="GuviExamples" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GuviExamples_test.iml" filepath="$PROJECT_DIR$/.idea/modules/GuviExamples_test.iml" group="GuviExamples" />
+    </modules>
+  </component>
+</project>
